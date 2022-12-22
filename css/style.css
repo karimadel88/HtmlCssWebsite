@@ -24,10 +24,7 @@ li {
   height: 100%;
   top: 0;
   left: 0;
-  background-image: -webkit-linear-gradient(
-    rgba(2, 8, 52, 0.74902) 0%,
-    rgba(2, 8, 52, 0.14902) 100%
-  );
+  background-color: rgba(2, 8, 52, 0.4);
 }
 .overlay-2 {
   position: absolute;
